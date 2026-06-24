@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.KidGallery" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorAccent">#000000</item>
+    </style>
+</resources>
